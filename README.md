@@ -3,7 +3,7 @@
 </div>
 
 # 内容
-华中科技大学网络空间安全学院（2020级）学习内容
+华中科技大学网络空间安全学院（2020 级）学习内容
 
 个人归档用
 
@@ -17,3 +17,5 @@
 ## 大三上
 1. [软件安全课程设计](https://github.com/yllhwa/SwordArtOffline)
 2. [计算机通信与网络实验](https://github.com/yllhwa/HUST-Lab-Network)
+3. [数据库实验](https://github.com/yllhwa/HUST-Lab-Database)
+4. [计算机操作系统实验/课设](https://github.com/yllhwa/HUST-Lab-OS)
